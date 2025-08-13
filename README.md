@@ -6,7 +6,7 @@
 
 ## Проєкти
 
-### 1. (Cell_Singularity) Cell Singularity
+### 1. Cell Singularity
 - [Test Cases](Cell_Singularity/Test_Cases.md)
 - [Bug Reports](Cell_Singularity/Bug_Reports.md)
 - [Checklist](Cell_Singularity/Checklist.md)
@@ -25,4 +25,4 @@
 
 ## 📧 Контакти
 - Email: iv.mila.va@gmail.com
-- LinkedIn: [твоє посилання]
+- LinkedIn: 
