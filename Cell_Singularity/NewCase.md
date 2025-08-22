@@ -1,7 +1,7 @@
 [Game QA TestFlight - Dancing Line.md](https://github.com/user-attachments/files/21941354/Game.QA.TestFlight.-.Dancing.Line.md)
 ### 
 
-**[Test Suite 1\. Аудіо	2](##test-suite-1.-аудіо)**
+**[Test Suite 1\. Аудіо	2](#test-suite-1.-аудіо)**
 
 [17\. Відтворення звуку через навушники	2](#17.-відтворення-звуку-через-навушники)
 
