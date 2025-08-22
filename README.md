@@ -19,8 +19,8 @@
 - [Checklist](Dancing_Line/Checklist.md)
 - [Test Cases](Dancing_Line/Test_Cases.md)
   ### Bug Reports
-- [Repo 1](Dancing_Line/Bug_Reports1.md)
-- [Repo 2](Dancing_Line/Bug_Reports2.md)
+- [Repo 1](Dancing_Line/Repo_1.md)
+- [Repo 2](Dancing_Line/Repo_2.md)
 
 ### 3. [Penjet](Penjet)
 - [Test Cases](Penjet/Test_Cases.md)
