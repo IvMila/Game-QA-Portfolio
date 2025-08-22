@@ -18,10 +18,8 @@
 - [About Game](Dancing_Line/About_Game.md)
 - [Checklist](Dancing_Line/Checklist.md)
 - [Test Cases](Dancing_Line/Test_Cases.md)
-  ### Bug Reports
 - [Bug Reports](Dancing_Line/Bug_Reports.md)
-- [Repo 1](Dancing_Line/Repo_1.md)
-- [Repo 2](Dancing_Line/Repo_2.md)
+
 
 ### 3. [Penjet](Penjet)
 - [Test Cases](Penjet/Test_Cases.md)
