@@ -18,7 +18,7 @@
 - [About Game](Dancing_Line/About_Game.md)
 - [Checklist](Dancing_Line/Checklist.md)
 - [Test Cases](Dancing_Line/Test_Cases.md)
-  ### [Bug Reports](Dancing_Line)
+  ### Bug Reports
 - [Repo 1](Dancing_Line/Bug_Reports1.md)
 - [Repo 2](Dancing_Line/Bug_Reports2.md)
 
