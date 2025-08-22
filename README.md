@@ -8,7 +8,7 @@
 
 ## Проєкти
 
-### [1. Cell Singularity]
+### [1. Cell Singularity](Cell_Singularity)
 - [About Game](Cell_Singularity/About_Game.md)
 - [Checklist](Cell_Singularity/Checklist.md)
 - [Test Cases](Cell_Singularity/Test_Cases.md)
