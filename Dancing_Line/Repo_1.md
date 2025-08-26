@@ -30,12 +30,11 @@
 **Priority:** High  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-* https://lh7-rt.googleusercontent.com/docsz/AD_4nXeDU1HPrf-jUUKd9JqKR4IQieqMxu8stsKubA1oV_r84wCUBVIlj5-8fT_svHIlwkaQ9sTIedJoQ6I2y5z7msEJad5LpGNh8CKYTSYZMuuS6cmU2iMa3B0CA2wdD77z8XgXkS1rFg?key=xG6NZxXmWXA7p194WBRZGw
-* https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEH-YTz4BNfW7iOfTBQ45Gtmzd9nVKC9N75fE1Szffsm0le55ypCzmQjpA8tmzxx1LuPOaGBwH_XkmspoiY2CdbdXv34AzqipURMVJ2lu21JUwAukoNYVLJq-ZDSVXhriW2t5H6A?key=xG6NZxXmWXA7p194WBRZGw
-* https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhM4EFycnrWvWgUyboaaPR8zHwAm0ht6hyyHGfG_wCBsJBw9rG7X0G0NgMB4wxbyYF_l7QwUPGOCSXHxQtn0gRRyab1RIbDpliVvD_ZJekCwesUJjixoKAvDDeh9_fOq3nnwfqGw?key=xG6NZxXmWXA7p194WBRZGw
+//* https://lh7-rt.googleusercontent.com/docsz/AD_4nXeDU1HPrf-jUUKd9JqKR4IQieqMxu8stsKubA1oV_r84wCUBVIlj5-8fT_svHIlwkaQ9sTIedJoQ6I2y5z7msEJad5LpGNh8CKYTSYZMuuS6cmU2iMa3B0CA2wdD77z8XgXkS1rFg?key=xG6NZxXmWXA7p194WBRZGw
+//* https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEH-YTz4BNfW7iOfTBQ45Gtmzd9nVKC9N75fE1Szffsm0le55ypCzmQjpA8tmzxx1LuPOaGBwH_XkmspoiY2CdbdXv34AzqipURMVJ2lu21JUwAukoNYVLJq-ZDSVXhriW2t5H6A?key=xG6NZxXmWXA7p194WBRZGw
+//* https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhM4EFycnrWvWgUyboaaPR8zHwAm0ht6hyyHGfG_wCBsJBw9rG7X0G0NgMB4wxbyYF_l7QwUPGOCSXHxQtn0gRRyab1RIbDpliVvD_ZJekCwesUJjixoKAvDDeh9_fOq3nnwfqGw?key=xG6NZxXmWXA7p194WBRZGw
 
-* <img width="250" height="450" alt="1" src="https://github.com/user-attachments/assets/e003b573-9373-411b-8901-03fe0d5c8951" /> <img width="250" height="450" alt="2" src="https://github.com/user-attachments/assets/4dc032c2-34f6-45e5-ac70-6b2e4fe6c08f" />
- <img width="250" height="450" alt="3" src="https://github.com/user-attachments/assets/f06acca6-859c-4b36-bf3a-11386d7e136c" />
+<img width="250" height="450" alt="1" src="https://github.com/user-attachments/assets/e003b573-9373-411b-8901-03fe0d5c8951" /> <img width="250" height="450" alt="2" src="https://github.com/user-attachments/assets/4dc032c2-34f6-45e5-ac70-6b2e4fe6c08f" /> <img width="250" height="450" alt="3" src="https://github.com/user-attachments/assets/f06acca6-859c-4b36-bf3a-11386d7e136c" />
 
 
 **Reporter:** Mila  
