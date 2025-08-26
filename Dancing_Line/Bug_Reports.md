@@ -1,4 +1,3 @@
-[Uploading Repo_1 - Dancing Line.md…]()
 ### **01\. Змішання мов** 
 
 **ID:** BUG\_001  
@@ -340,4 +339,5 @@
 **Reporter:** Mila  
 **Assigned to:** dev  
 **Status**: open  
+
 
