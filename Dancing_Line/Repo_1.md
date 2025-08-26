@@ -265,3 +265,82 @@
 **Reporter:** Mila  
 **Assigned to:** dev  
 **Status**: open 
+
+### **08\. Розмір ігрового об'єкту малий на рівні “The Beach”**
+
+**ID:** BUG\_008  
+**Title:** \[Non-reproducible\] Розмір ігрового об’єкту (куб) став малим на рівні “The Beach”  
+**Date:** 07.06.25  
+**Version:** 3.5.4 (1514)
+
+**Description:** Куб одного разу з’явився значно меншим від очікуваного на початку рівня “The Beach”. Повторити помилку не вдалося
+
+**Steps to Reproduce:**  
+Проблема виникла лише один раз, точна послідовність дій невідома. Орієнтовні умови, коли було помічено:
+
+1. Почати рівень “The Beach”  
+2. Звернути увагу на ігровий об’єкт  
+   
+
+**Expected result:** 
+
+* ігровий об’єкт (куб) має стандартний розмір
+
+
+**Actual result:**
+
+* куб відображався у зменшеному розмірі
+
+
+**Type of bug:** Graphics / Visual  
+**Severity:**  Medium  
+**Priority:** Low  
+**Reproducibility:** Rare / Could not reproduce (1/5 спроб)  
+**Environment:** iPhone 16, iOS 18.3.1  
+**Attachment:**  
+<img width="250" height="500" alt="17" src="https://github.com/user-attachments/assets/6a3ad78c-6da6-4520-a60b-8da3765e6625" /> <img width="250" height="500" alt="17" src="https://github.com/user-attachments/assets/2a1a8dc3-2093-4d5d-9889-e769511bd122" />
+
+
+**Reporter:** Mila  
+**Assigned to:** dev  
+**Status**: open 
+
+### **09\. Ігрова локація не завантажується на рівні “The Plains”** 
+
+**ID:** BUG\_009  
+**Title:** Зникнення ігрової сцени на рівні “The Plains”   
+**Date:** 08.06.25  
+**Version:** 3.5.4 (1514)
+
+**Description:** Почавши рівень “The Plains” приблизно через 3 секунди було помічено що ігрова сцена не завантажується
+
+**Steps to Reproduce:**
+
+1. Знайти рівень “The Plains” (скролити у головному меню)  
+2. Розпочати рівень (натиснувши на перегляд реклами)  
+3. Знову тапнути для старту  
+4. Звернути увагу що рівень різко закінчується завантажуватися  
+   
+
+**Expected result:** 
+
+* всі рівні мають бути коректно завантаженими та доступними для гравця
+
+
+**Actual result:**
+
+* ігровий рівень (сцена) пустий/а, зникає  
+* пройти успішно рівень нереально
+
+
+**Type of bug:** Gameplay / Functional  
+**Severity:** Medium  
+**Priority:** Medium  
+**Environment:** iPhone 16, iOS 18.3.1  
+**Attachment:**  
+<img width="250" height="500" alt="17" src="https://github.com/user-attachments/assets/617bcd4d-2c4a-4eeb-adf8-e17a78571f06" /> <img width="250" height="500" alt="18" src="https://github.com/user-attachments/assets/a598adad-b6e5-4102-9d95-4e87b26143d7" />
+
+
+**Reporter:** Mila  
+**Assigned to:** dev  
+**Status**: open  
