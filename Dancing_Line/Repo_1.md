@@ -141,7 +141,7 @@
 **Priority:** Low  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-<img width="250" height="500" alt="4" src="https://github.com/user-attachments/assets/2dbafb0f-c697-4341-b540-0b002201c1dd" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/2e56deee-a216-4971-a738-55be0f3f93ec" />
 
 **Reporter:** Mila  
 **Assigned to:** dev  
@@ -178,7 +178,7 @@
 **Priority:** Low  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/69fd583a-81d7-4c6d-943e-45861808d275" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/e123ffb2-6eef-4d9d-81b2-ac75b528d425" />
 
 **Reporter:** Mila  
 **Assigned to:** dev  
