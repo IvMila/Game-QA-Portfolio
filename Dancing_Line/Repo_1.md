@@ -99,7 +99,7 @@
 **Type of bug:** UI   
 **Severity:** Major  
 **Priority:** Medium  
-**Environment:** iPhone 16, iOS 18.3.1
+**Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
 <img width="250" height="500" alt="4" src="https://github.com/user-attachments/assets/0b16a8de-19e7-428e-a5fc-843fcd2a6b4b" />
 
