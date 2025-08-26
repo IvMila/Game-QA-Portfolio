@@ -255,7 +255,7 @@
 **Priority:** Medium  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**  
- <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/eb5ef52d-cede-4010-9547-9178474c721e" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/d0ba3efd-a9f6-4813-9ae5-5d644e54b5fa" /> <img width="250" height="500" alt="13" src="https://github.com/user-attachments/assets/61e3481c-0d28-4fff-af71-a80d0ffa6811" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/dbffcc03-7bd8-4115-a93f-25076b7a1494" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/887aa902-ba67-4f9b-93a9-86d06acab4fd" /> 
+ <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/eb5ef52d-cede-4010-9547-9178474c721e" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/d0ba3efd-a9f6-4813-9ae5-5d644e54b5fa" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/dbffcc03-7bd8-4115-a93f-25076b7a1494" /> <img width="250" height="500" alt="13" src="https://github.com/user-attachments/assets/61e3481c-0d28-4fff-af71-a80d0ffa6811" /> <img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/887aa902-ba67-4f9b-93a9-86d06acab4fd" /> 
 
 **Environment:** iPhone 16, iOS 18.3.1  
 **Reporter:** Mila  
@@ -340,3 +340,4 @@
 **Reporter:** Mila  
 **Assigned to:** dev  
 **Status**: open  
+
