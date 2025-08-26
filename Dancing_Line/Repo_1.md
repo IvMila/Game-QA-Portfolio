@@ -105,7 +105,7 @@
 **Priority:** Medium  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-<img width="250" height="450" alt="4" src="https://github.com/user-attachments/assets/0b16a8de-19e7-428e-a5fc-843fcd2a6b4b" />
+<img width="250" height="500" alt="4" src="https://github.com/user-attachments/assets/0b16a8de-19e7-428e-a5fc-843fcd2a6b4b" />
 
 **Reporter:** Mila  
 **Assigned to:** dev  
@@ -141,7 +141,7 @@
 **Priority:** Low  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-<img width="250" height="450" alt="4" src="https://github.com/user-attachments/assets/2dbafb0f-c697-4341-b540-0b002201c1dd" />
+<img width="250" height="500" alt="4" src="https://github.com/user-attachments/assets/2dbafb0f-c697-4341-b540-0b002201c1dd" />
 
 **Reporter:** Mila  
 **Assigned to:** dev  
@@ -178,7 +178,7 @@
 **Priority:** Low  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
-<img width="250" height="450" alt="5" src="https://github.com/user-attachments/assets/69fd583a-81d7-4c6d-943e-45861808d275" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/69fd583a-81d7-4c6d-943e-45861808d275" />
 
 **Reporter:** Mila  
 **Assigned to:** dev  
@@ -218,8 +218,11 @@
 **Priority:** Medium  
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**  
- **![][image7]![][image8]**  
-**![][image9]![][image10]**
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/a1cec78a-caa5-480b-9671-c43fae7bba4a" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/6c11abe8-58eb-4d26-adc4-5b475c917eb7" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/8d20001c-65b3-4d73-9294-a7db8ead8c10" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/58c94000-ebd5-4ed6-be98-baafad59e40b" />
+
 
 **Environment:** iPhone 16, iOS 18.3.1  
 **Reporter:** Mila  
