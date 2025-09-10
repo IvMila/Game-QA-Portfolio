@@ -8,11 +8,11 @@
 
 ## Проєкти
 
-### 1. [Cell Singularity](Cell_Singularity)
-- [About Game](Cell_Singularity/About_Game.md)
-- [Checklist](Cell_Singularity/Checklist.md)
-- [Test Cases](Cell_Singularity/Test_Cases.md)
-- [Bug Reports](Cell_Singularity/Bug_Reports.md)
+### 1. [Cell to Singularity](Cell_to_Singularity)
+- [About Game](Cell_to_Singularity/About_Game.md)
+- [Checklist](Cell_to_Singularity/Checklist.md)
+- [Test Cases](Cell_to_Singularity/Test_Cases.md)
+- [Bug Reports](Cell_to_Singularity/Bug_Reports.md)
 
 ### 2. [Dancing Line](Dancing_Line)
 - [About Game](Dancing_Line/About_Game.md)
