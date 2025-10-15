@@ -37,7 +37,7 @@
 
 **Attachment:**
 
-<img width="250" height="500" alt="1" src="blob:https://docs.google.com/5271d3a5-b947-4595-bec1-212641e2fad4" />
+<img width="250" height="500" alt="1" src="https://docs.google.com/5271d3a5-b947-4595-bec1-212641e2fad4" />
 
 ### 
 
