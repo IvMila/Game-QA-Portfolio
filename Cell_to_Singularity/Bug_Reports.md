@@ -75,7 +75,7 @@
 
 **Attachment:**
 
-<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/f9a9dbc6-b0be-4e5e-b7c8-6dc511ea4870" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/f9a9dbc6-b0be-4e5e-b7c8-6dc511ea4870" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/f9a9dbc6-b0be-4e5e-b7c8-6dc511ea4870" />
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/03b8e87a-8b67-431b-b4f9-b45abb9379c6" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/39fd64de-53b9-4102-9900-a88d37293452" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/fc8da54d-4640-4ee4-96bb-7fca841c58fc" />
 
 ### 
 
@@ -112,7 +112,8 @@
 
 **Attachment:**
 
-![][image5]![][image6]![][image7]
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/42763e04-4cee-45e3-8eae-52b5dc5a32ca" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/1ee74a55-3f56-456c-8b3c-6a377e9423db" /> <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/72ff7db2-6d22-4263-aa76-ae365a1a58a1" />
+
 
 ### **04\. Орфографічна помилка в українській локалізації**
 
@@ -142,7 +143,7 @@
 
 **Attachment:**
 
-#### **![][image8]**
+<img width="350" height="500" alt="1" src="https://github.com/user-attachments/assets/155c3b9a-8dbe-4ce7-961f-bde9e62512de" />
 
 ### **05\. Баланс збільшується після переривання перегляду реклами “Подвоїти це”** 
 
@@ -175,7 +176,8 @@
 
 **Attachment:**
 
- ![][image9]![][image10]
+<img width="200" height="500" alt="1" src="https://github.com/user-attachments/assets/a7c716a8-1d16-4136-8479-2a040e4f9ff8" /> <img width="200" height="500" alt="1" src="https://github.com/user-attachments/assets/ddfa780e-c0ac-4f59-a431-b08ba50b7e2f" />
+
 
 ### **06\. Кількість “Ентропії” зменшився після звичайного тестування** 
 
@@ -208,7 +210,8 @@
 
 **Attachment:**
 
-![][image11]![][image12]
+<img width="350" height="500" alt="1" src="https://github.com/user-attachments/assets/163af153-11e1-4048-83e5-d7911b6bd56b" /> <img width="350" height="500" alt="1" src="https://github.com/user-attachments/assets/a1867bba-83a6-4d47-a235-8d92dec48755" />
+
 
 ### **07\. Вікно “Офлайн заробіток” не з’явилося після розриву перегляду реклами**  
 
