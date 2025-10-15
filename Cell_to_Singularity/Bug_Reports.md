@@ -36,8 +36,7 @@
 **Reproducibility:** Always
 
 **Attachment:**
-
-<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/41b2a2d8-e2eb-435e-a1db-a95318a8d205" />
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/f9a9dbc6-b0be-4e5e-b7c8-6dc511ea4870" />
 
 ### 
 
