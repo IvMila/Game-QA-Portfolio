@@ -65,7 +65,8 @@
 **Environment:** iPhone 16, iOS 18.3.1  
 **Attachment:**   
 
-<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/3501cd76-c328-402d-b534-9c05841ee835"/ > <img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/ec435f26-97e0-43f4-a1da-4a23208fd9cb" />
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/3501cd76-c328-402d-b534-9c05841ee835" /> 
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/ec435f26-97e0-43f4-a1da-4a23208fd9cb" />
 
 
 **Reporter:** Mila  
