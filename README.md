@@ -22,6 +22,7 @@
 
 
 ### 3. [Penjet](Penjet)
+- [About Game](Penjet/About_Game.md)
 - [Test Cases](Penjet/Test_Cases.md)
 - [Bug Reports](Penjet/Bug_Reports.md)
 - [Checklist](Penjet/Checklist.md)
