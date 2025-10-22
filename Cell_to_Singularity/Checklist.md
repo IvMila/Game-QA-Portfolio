@@ -1,5 +1,3 @@
-
-[Cell_to_Cingularite_ChecklistUA .md](https://github.com/user-attachments/files/22848518/Cell_to_Cingularite_ChecklistUA.md)
 *Чек-лист охоплює загальні функції гри. Деякі функції мають окремі тест-кейси для детального тестування.*
 
 | ID | Name | Status | Comment |
