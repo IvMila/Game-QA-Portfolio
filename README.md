@@ -31,4 +31,4 @@
 
 ## 📧 Контакти
 - Email: iv.mila.va@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/tamila-ivanenko-042810365/)
+- LinkedIn: https://www.linkedin.com/in/tamila-ivanenko-042810365/
