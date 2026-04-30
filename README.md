@@ -27,6 +27,12 @@
 - [Bug Reports](Penjet/Bug_Reports.md)
 - [Checklist](Penjet/Checklist.md)
 
+### 4. [Merge Quest Game](Merge Quest Game)
+- [About Game](Merge_Quest_Game/About_Game.md)
+- [Checklist](Merge_Quest_Game/Checklist.md)
+- [Test Cases](Merge_Quest_Game/Test_Cases.md)
+- [Bug Reports](Merge_Quest_Game/Bug_Reports.md)
+  
 ---
 
 ## 📧 Контакти
